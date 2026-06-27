@@ -1,5 +1,5 @@
 .env
 node_modules/
 logs/*.log
-attachments/
 # databases/*.json
+attachments/
