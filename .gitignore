@@ -1,9 +1,5 @@
 .env
-*.local
 node_modules/
-backups/*.tar.gz
 logs/*.log
-.DS_Store
-Thumbs.db
-# But include attachments
-attachments/*
+attachments/
+# databases/*.json
