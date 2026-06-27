@@ -5,3 +5,5 @@ backups/*.tar.gz
 logs/*.log
 .DS_Store
 Thumbs.db
+# But include attachments
+attachments/*
