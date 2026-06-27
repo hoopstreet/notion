@@ -1,0 +1,5569 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "208c74d8-fd29-400a-a70a-7d3d3a8d4f24",
+      "created_time": "2026-06-17T04:01:00.000Z",
+      "last_edited_time": "2026-06-27T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🛡️"
+      },
+      "parent": {
+        "type": "workspace",
+        "workspace": true
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "2. Security Dashboard",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "2. Security Dashboard",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/2-Security-Dashboard-208c74d8fd29400aa70a7d3d3a8d4f24",
+      "public_url": "https://cybercrimeworkspace.notion.site/2-Security-Dashboard-208c74d8fd29400aa70a7d3d3a8d4f24",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "372dfafd-46a2-450d-a067-dfd70e0f6ef9",
+      "created_time": "2026-06-17T04:55:00.000Z",
+      "last_edited_time": "2026-06-27T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🛡️"
+      },
+      "parent": {
+        "type": "workspace",
+        "workspace": true
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "3. System Security & Updates Logs",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "3. System Security & Updates Logs",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/3-System-Security-Updates-Logs-372dfafd46a2450da067dfd70e0f6ef9",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "50995160-3301-44fb-ba76-2eb9a6960653",
+      "created_time": "2026-06-25T21:27:00.000Z",
+      "last_edited_time": "2026-06-27T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "38a9f019-4a99-8109-afc4-002703e1ace8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🧾"
+      },
+      "parent": {
+        "type": "workspace",
+        "workspace": true
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "1. Affidavit Dashboard",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "1. Affidavit Dashboard",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/1-Affidavit-Dashboard-50995160330144fbba762eb9a6960653",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e",
+      "created_time": "2026-06-18T04:13:00.000Z",
+      "last_edited_time": "2026-06-27T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "⚡"
+      },
+      "parent": {
+        "type": "workspace",
+        "workspace": true
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "5. Integration & Automations",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "5. Integration & Automations",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/5-Integration-Automations-bebf0b04268d4994acfac2af1eb46e6e",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "d7d23d63-ed81-40c6-b8b0-2419ce567bea",
+      "created_time": "2026-06-17T04:55:00.000Z",
+      "last_edited_time": "2026-06-27T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📚"
+      },
+      "parent": {
+        "type": "workspace",
+        "workspace": true
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "4. Master Agent Knowledge Base",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "4. Master Agent Knowledge Base",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/4-Master-Agent-Knowledge-Base-d7d23d63ed8140c6b8b02419ce567bea",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "dd7ed3ba-261a-49f9-8d84-6ac80005569b",
+      "created_time": "2026-06-25T20:15:00.000Z",
+      "last_edited_time": "2026-06-27T02:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "38a9f019-4a99-8109-afc4-002703e1ace8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🧾"
+      },
+      "parent": {
+        "type": "workspace",
+        "workspace": true
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "OFFICIAL — Affidavit of Evidence (Landing)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "OFFICIAL — Affidavit of Evidence (Landing)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/OFFICIAL-Affidavit-of-Evidence-Landing-dd7ed3ba261a49f98d846ac80005569b",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "582355fd-bd1b-441a-aa78-ee9c6b4b511b",
+      "created_time": "2026-06-25T21:53:00.000Z",
+      "last_edited_time": "2026-06-26T17:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "38a9f019-4a99-8109-afc4-002703e1ace8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "✅"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "50995160-3301-44fb-ba76-2eb9a6960653"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "FINAL — Affidavit of Evidence (Landing)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "FINAL — Affidavit of Evidence (Landing)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/FINAL-Affidavit-of-Evidence-Landing-582355fdbd1b441aaa78ee9c6b4b511b",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "856c309d-3a08-4449-8df5-171bbb6e08cb",
+      "created_time": "2026-06-17T05:54:00.000Z",
+      "last_edited_time": "2026-06-26T17:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3c384660-6117-40bb-9aa9-16a0e0db9842"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Last Updated": {
+          "id": "WhL%7B",
+          "type": "last_edited_time",
+          "last_edited_time": "2026-06-26T17:23:00.000Z"
+        },
+        "Purpose": {
+          "id": "%5C%3Fc%5D",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Unified security, evidence integrity, incident response, reporting, workspace cleanup",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Unified security, evidence integrity, incident response, reporting, workspace cleanup",
+              "href": null
+            }
+          ]
+        },
+        "Scope": {
+          "id": "c%3Aid",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Cybercrime Workspace: Dashboard (public), Page 1/2 (public), Page 3/4 (private) — Gateway keeper approvals, change management, Telegram control, evidence intake, logging",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cybercrime Workspace: Dashboard (public), Page 1/2 (public), Page 3/4 (private) — Gateway keeper approvals, change management, Telegram control, evidence intake, logging",
+              "href": null
+            }
+          ]
+        },
+        "Agent": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Master Security & Updates Agent",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Master Security & Updates Agent",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Master-Security-Updates-Agent-856c309d3a0844498df5171bbb6e08cb",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "1fe87f45-8ec9-49f5-92dd-72f81fd96192",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-26T17:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🧭"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "d7d23d63-ed81-40c6-b8b0-2419ce567bea"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Role-Specific Instructions",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Role-Specific Instructions",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Role-Specific-Instructions-1fe87f458ec949f592dd72f81fd96192",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "49646534-e7f7-4f98-aa47-fd4878d7885a",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-26T17:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "👤"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "d7d23d63-ed81-40c6-b8b0-2419ce567bea"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Solo Entrepreneur Mode",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Solo Entrepreneur Mode",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Solo-Entrepreneur-Mode-49646534e7f74f98aa47fd4878d7885a",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "d7fb4f0e-96c6-4485-976b-d8d0c312226f",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-26T17:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "⚙️"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "d7d23d63-ed81-40c6-b8b0-2419ce567bea"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Settings Documentation",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Settings Documentation",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Settings-Documentation-d7fb4f0e96c64485976bd8d0c312226f",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "2f832cd7-e1bb-4125-9127-7d03c8097da6",
+      "created_time": "2026-06-25T21:31:00.000Z",
+      "last_edited_time": "2026-06-26T17:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "38a9f019-4a99-8109-afc4-002703e1ace8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🧾"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "50995160-3301-44fb-ba76-2eb9a6960653"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "OFFICIAL — Affidavit (Without Evidence) — Landing",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "OFFICIAL — Affidavit (Without Evidence) — Landing",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/OFFICIAL-Affidavit-Without-Evidence-Landing-2f832cd7e1bb412591277d03c8097da6",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "bd36d536-087d-4678-8d03-5fcee2ce1435",
+      "created_time": "2026-06-25T21:27:00.000Z",
+      "last_edited_time": "2026-06-26T17:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "38a9f019-4a99-8109-afc4-002703e1ace8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📜"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "50995160-3301-44fb-ba76-2eb9a6960653"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "OFFICIAL — Affidavit (Without Images)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "OFFICIAL — Affidavit (Without Images)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/OFFICIAL-Affidavit-Without-Images-bd36d536087d46788d035fcee2ce1435",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "38a9f019-4a99-809a-868f-f7b949971e4b",
+      "created_time": "2026-06-25T18:39:00.000Z",
+      "last_edited_time": "2026-06-26T17:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "page_id",
+        "page_id": "a3726894-b1da-4446-ad9d-0eab5a272b2d"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "OFFICIAL — Affidavit Statement (Source Text) — Charles Tanauan (2025)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "OFFICIAL — Affidavit Statement (Source Text) — Charles Tanauan (2025)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/OFFICIAL-Affidavit-Statement-Source-Text-Charles-Tanauan-2025-38a9f0194a99809a868ff7b949971e4b",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "a3726894-b1da-4446-ad9d-0eab5a272b2d",
+      "created_time": "2026-06-25T20:08:00.000Z",
+      "last_edited_time": "2026-06-26T17:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "38a9f019-4a99-8109-afc4-002703e1ace8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🧾"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "50995160-3301-44fb-ba76-2eb9a6960653"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Official Affidavit of Evidence — Landing Template",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Official Affidavit of Evidence — Landing Template",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Official-Affidavit-of-Evidence-Landing-Template-a3726894b1da4446ad9d0eab5a272b2d",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "38a9f019-4a99-80d3-b114-ddfad534de83",
+      "created_time": "2026-06-25T18:40:00.000Z",
+      "last_edited_time": "2026-06-26T17:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "page_id",
+        "page_id": "50995160-3301-44fb-ba76-2eb9a6960653"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BACKUP OFFICIAL AFFIDAVIT STATEMENT OF CHARLES TANAUAN CASE PRESENTATION 2025 (2)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BACKUP OFFICIAL AFFIDAVIT STATEMENT OF CHARLES TANAUAN CASE PRESENTATION 2025 (2)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/BACKUP-OFFICIAL-AFFIDAVIT-STATEMENT-OF-CHARLES-TANAUAN-CASE-PRESENTATION-2025-2-38a9f0194a9980d3b114ddfad534de83",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "6ac9aef9-57e8-42a4-89bc-57678d3dc9ff",
+      "created_time": "2026-06-17T04:55:00.000Z",
+      "last_edited_time": "2026-06-26T17:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "38bd872b-594c-8136-8c80-000264e43c1c"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📄"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "50995160-3301-44fb-ba76-2eb9a6960653"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "2. Official Affidavit",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "2. Official Affidavit",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/2-Official-Affidavit-6ac9aef957e842a489bc57678d3dc9ff",
+      "public_url": "https://cybercrimeworkspace.notion.site/2-Official-Affidavit-6ac9aef957e842a489bc57678d3dc9ff",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "93d9f019-4a99-8253-9bec-81a7484946d9",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7aa9f019-4a99-8258-84e3-81e6b64adce8"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mga Aircon",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mga Aircon",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Mga-Aircon-93d9f0194a9982539bec81a7484946d9",
+      "public_url": "https://cybercrimeworkspace.notion.site/Mga-Aircon-93d9f0194a9982539bec81a7484946d9",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "0699f019-4a99-83d3-a625-01a2017b231a",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7aa9f019-4a99-8258-84e3-81e6b64adce8"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mga Cellphone",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mga Cellphone",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Mga-Cellphone-0699f0194a9983d3a62501a2017b231a",
+      "public_url": "https://cybercrimeworkspace.notion.site/Mga-Cellphone-0699f0194a9983d3a62501a2017b231a",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "9c49f019-4a99-83ba-ab19-8121b75211a1",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7aa9f019-4a99-8258-84e3-81e6b64adce8"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mga Gaming Computer",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mga Gaming Computer",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Mga-Gaming-Computer-9c49f0194a9983baab198121b75211a1",
+      "public_url": "https://cybercrimeworkspace.notion.site/Mga-Gaming-Computer-9c49f0194a9983baab198121b75211a1",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "ed89f019-4a99-82e7-b4a5-018eb5f4b3b6",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7aa9f019-4a99-8258-84e3-81e6b64adce8"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Motorcycle",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Motorcycle",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Motorcycle-ed89f0194a9982e7b4a5018eb5f4b3b6",
+      "public_url": "https://cybercrimeworkspace.notion.site/Motorcycle-ed89f0194a9982e7b4a5018eb5f4b3b6",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "c729f019-4a99-82a8-9aa7-01344fe9e445",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7aa9f019-4a99-8258-84e3-81e6b64adce8"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "MacBook",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "MacBook",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/MacBook-c729f0194a9982a89aa701344fe9e445",
+      "public_url": "https://cybercrimeworkspace.notion.site/MacBook-c729f0194a9982a89aa701344fe9e445",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "09e9f019-4a99-8308-bb67-81c9c46dda01",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7aa9f019-4a99-8258-84e3-81e6b64adce8"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Sasakyan",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sasakyan",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Sasakyan-09e9f0194a998308bb6781c9c46dda01",
+      "public_url": "https://cybercrimeworkspace.notion.site/Sasakyan-09e9f0194a998308bb6781c9c46dda01",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "d709f019-4a99-830e-9f69-81325d97e598",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "0f59f019-4a99-8368-a9cb-01b881e91533"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Health Certificate",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Health Certificate",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Health-Certificate-d709f0194a99830e9f6981325d97e598",
+      "public_url": "https://cybercrimeworkspace.notion.site/Health-Certificate-d709f0194a99830e9f6981325d97e598",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "cca9f019-4a99-8343-b8b2-816ab522be6d",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "0f59f019-4a99-8368-a9cb-01b881e91533"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Enjection",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Enjection",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Enjection-cca9f0194a998343b8b2816ab522be6d",
+      "public_url": "https://cybercrimeworkspace.notion.site/Enjection-cca9f0194a998343b8b2816ab522be6d",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "ec19f019-4a99-83c3-b1f0-01b8fe2dcb14",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bba9f019-4a99-8257-a1bf-812c9f381982"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Image",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Image",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Image-ec19f0194a9983c3b1f001b8fe2dcb14",
+      "public_url": "https://cybercrimeworkspace.notion.site/Image-ec19f0194a9983c3b1f001b8fe2dcb14",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "7b39f019-4a99-83a4-9754-018f765a4e71",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bba9f019-4a99-8257-a1bf-812c9f381982"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Videos",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Videos",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Videos-7b39f0194a9983a49754018f765a4e71",
+      "public_url": "https://cybercrimeworkspace.notion.site/Videos-7b39f0194a9983a49754018f765a4e71",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "db59f019-4a99-82ef-9d48-0192fb5b4829",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "0d99f019-4a99-82a8-ae82-0128254ca48d"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IMAGE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IMAGE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IMAGE-db59f0194a9982ef9d480192fb5b4829",
+      "public_url": "https://cybercrimeworkspace.notion.site/IMAGE-db59f0194a9982ef9d480192fb5b4829",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "cf29f019-4a99-8399-ad31-0150035bd39e",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "0d99f019-4a99-82a8-ae82-0128254ca48d"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BOARD",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BOARD",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/BOARD-cf29f0194a998399ad310150035bd39e",
+      "public_url": "https://cybercrimeworkspace.notion.site/BOARD-cf29f0194a998399ad310150035bd39e",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "7959f019-4a99-83d7-828b-81131a431be3",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "0d99f019-4a99-82a8-ae82-0128254ca48d"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "NOTEBOOK",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "NOTEBOOK",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/NOTEBOOK-7959f0194a9983d7828b81131a431be3",
+      "public_url": "https://cybercrimeworkspace.notion.site/NOTEBOOK-7959f0194a9983d7828b81131a431be3",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "8889f019-4a99-83a5-ab37-0117682f7b7f",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a9b9f019-4a99-835f-aef5-018e036b037d"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IMAGE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IMAGE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IMAGE-8889f0194a9983a5ab370117682f7b7f",
+      "public_url": "https://cybercrimeworkspace.notion.site/IMAGE-8889f0194a9983a5ab370117682f7b7f",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "fb09f019-4a99-82f4-9525-01fc5f4cd7bc",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2be9f019-4a99-8251-a17f-01ece5d48fbb"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "DELETED FILES",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "DELETED FILES",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/DELETED-FILES-fb09f0194a9982f4952501fc5f4cd7bc",
+      "public_url": "https://cybercrimeworkspace.notion.site/DELETED-FILES-fb09f0194a9982f4952501fc5f4cd7bc",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "e119f019-4a99-828e-95b3-017115cbc809",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2be9f019-4a99-8251-a17f-01ece5d48fbb"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IT Justin Pagaspas",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IT Justin Pagaspas",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IT-Justin-Pagaspas-e119f0194a99828e95b3017115cbc809",
+      "public_url": "https://cybercrimeworkspace.notion.site/IT-Justin-Pagaspas-e119f0194a99828e95b3017115cbc809",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "e449f019-4a99-8281-afe7-019cc0622d70",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "b2a9f019-4a99-83bb-b781-81e32ee12f8e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IMAGE PROOF",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IMAGE PROOF",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IMAGE-PROOF-e449f0194a998281afe7019cc0622d70",
+      "public_url": "https://cybercrimeworkspace.notion.site/IMAGE-PROOF-e449f0194a998281afe7019cc0622d70",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "5f79f019-4a99-829b-850d-015893205232",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "9fc9f019-4a99-8385-ad81-01519ab143a2"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IMAGE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IMAGE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IMAGE-5f79f0194a99829b850d015893205232",
+      "public_url": "https://cybercrimeworkspace.notion.site/IMAGE-5f79f0194a99829b850d015893205232",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "0b49f019-4a99-8314-975f-81bba5a44d85",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "9fc9f019-4a99-8385-ad81-01519ab143a2"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "VIDEOS",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "VIDEOS",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/VIDEOS-0b49f0194a998314975f81bba5a44d85",
+      "public_url": "https://cybercrimeworkspace.notion.site/VIDEOS-0b49f0194a998314975f81bba5a44d85",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "0c29f019-4a99-820f-8034-017883c23a60",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "9409f019-4a99-8394-93d6-81a074fbdcb2"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "LIST OF INFLUENCER",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "LIST OF INFLUENCER",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/LIST-OF-INFLUENCER-0c29f0194a99820f8034017883c23a60",
+      "public_url": "https://cybercrimeworkspace.notion.site/LIST-OF-INFLUENCER-0c29f0194a99820f8034017883c23a60",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "a129f019-4a99-82df-b668-01ba1a6a473d",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "9409f019-4a99-8394-93d6-81a074fbdcb2"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Payment",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Payment",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Payment-a129f0194a9982dfb66801ba1a6a473d",
+      "public_url": "https://cybercrimeworkspace.notion.site/Payment-a129f0194a9982dfb66801ba1a6a473d",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "a159f019-4a99-824f-b91e-815a65b0c7b9",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "9409f019-4a99-8394-93d6-81a074fbdcb2"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Invoice",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Invoice",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Invoice-a159f0194a99824fb91e815a65b0c7b9",
+      "public_url": "https://cybercrimeworkspace.notion.site/Invoice-a159f0194a99824fb91e815a65b0c7b9",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "0a69f019-4a99-8386-bf1c-81b04d0eec99",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://docs.google.com/document/d/1hw1DFQuD8rHiNIjPOX4TWAWrS2CG2OTxTH8bVX_paZE/edit?usp=drivesdk"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PARTNERSHIP & CONTRACT",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PARTNERSHIP & CONTRACT",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/PARTNERSHIP-CONTRACT-0a69f0194a998386bf1c81b04d0eec99",
+      "public_url": "https://cybercrimeworkspace.notion.site/PARTNERSHIP-CONTRACT-0a69f0194a998386bf1c81b04d0eec99",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "6c29f019-4a99-8396-a06b-0144d57810ca",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://docs.google.com/document/d/1e4e0hIhHz0FDdrLf_U82FmhHaJEUOqqauxEAkj8ZUeM/edit?usp=drivesdk"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SCRIPT COOPERATION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SCRIPT COOPERATION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/SCRIPT-COOPERATION-6c29f0194a998396a06b0144d57810ca",
+      "public_url": "https://cybercrimeworkspace.notion.site/SCRIPT-COOPERATION-6c29f0194a998396a06b0144d57810ca",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "e449f019-4a99-83a0-aadc-81b86d46a571",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://docs.google.com/document/d/14yuGTwjei5qRAuS1sqXSWJ2Hvs3TzonxJAVHITZTEzo/edit?usp=drivesdk"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "AGENCY WORKFLOW",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "AGENCY WORKFLOW",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/AGENCY-WORKFLOW-e449f0194a9983a0aadc81b86d46a571",
+      "public_url": "https://cybercrimeworkspace.notion.site/AGENCY-WORKFLOW-e449f0194a9983a0aadc81b86d46a571",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "d2a9f019-4a99-8274-b78f-8124983424f7",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://www.canva.com/design/DAFz8Md2VFg/jogwOdsD6Z77XN6CWC-1Ow/view?utm_content=DAFz8Md2VFg&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "DIGITAL MARKETING",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "DIGITAL MARKETING",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/DIGITAL-MARKETING-d2a9f0194a998274b78f8124983424f7",
+      "public_url": "https://cybercrimeworkspace.notion.site/DIGITAL-MARKETING-d2a9f0194a998274b78f8124983424f7",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "77d9f019-4a99-82d2-9b41-817e23b2ba94",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://www.canva.com/design/DAF0CnAg7i8/o9p4noLC45CdHiWhU3DjCg/view?utm_content=DAF0CnAg7i8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "AGENT DASHBOARD",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "AGENT DASHBOARD",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/AGENT-DASHBOARD-77d9f0194a9982d29b41817e23b2ba94",
+      "public_url": "https://cybercrimeworkspace.notion.site/AGENT-DASHBOARD-77d9f0194a9982d29b41817e23b2ba94",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "2d39f019-4a99-82ed-aebd-81c0dac97d22",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://www.canva.com/design/DAF0Cq4aX1c/P5RW8XwcFAb3orki8tSpEQ/view?utm_content=DAF0Cq4aX1c&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "INFLUENCER DASHBOARD",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "INFLUENCER DASHBOARD",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/INFLUENCER-DASHBOARD-2d39f0194a9982edaebd81c0dac97d22",
+      "public_url": "https://cybercrimeworkspace.notion.site/INFLUENCER-DASHBOARD-2d39f0194a9982edaebd81c0dac97d22",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "4f19f019-4a99-8324-bc7c-814e13f71381",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://masterkanortv.my.canva.site/businesspayment"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "TWO TYPE OF INFLUENCER COOPERATION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "TWO TYPE OF INFLUENCER COOPERATION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/TWO-TYPE-OF-INFLUENCER-COOPERATION-4f19f0194a998324bc7c814e13f71381",
+      "public_url": "https://cybercrimeworkspace.notion.site/TWO-TYPE-OF-INFLUENCER-COOPERATION-4f19f0194a998324bc7c814e13f71381",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "ada9f019-4a99-82cd-9449-81af7399fb3c",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://masterkanortv.my.canva.site/infcoop"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "INFLUENCER COOPERATION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "INFLUENCER COOPERATION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/INFLUENCER-COOPERATION-ada9f0194a9982cd944981af7399fb3c",
+      "public_url": "https://cybercrimeworkspace.notion.site/INFLUENCER-COOPERATION-ada9f0194a9982cd944981af7399fb3c",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "7049f019-4a99-82bf-8377-0137e52cae69",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://bit.ly/aboutinfluencers"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "ABOUT INFLUENCERS",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "ABOUT INFLUENCERS",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/ABOUT-INFLUENCERS-7049f0194a9982bf83770137e52cae69",
+      "public_url": "https://cybercrimeworkspace.notion.site/ABOUT-INFLUENCERS-7049f0194a9982bf83770137e52cae69",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "ed79f019-4a99-828a-87f5-816498b20a66",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://bit.ly/paymentcooperation"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BUSINESS COOPERATION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BUSINESS COOPERATION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/BUSINESS-COOPERATION-ed79f0194a99828a87f5816498b20a66",
+      "public_url": "https://cybercrimeworkspace.notion.site/BUSINESS-COOPERATION-ed79f0194a99828a87f5816498b20a66",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "b4f9f019-4a99-82a7-a76f-0165e4735866",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://masterkanortv.my.canva.site/mkasino"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "MKASINO MARKETING AGENCY",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "MKASINO MARKETING AGENCY",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/MKASINO-MARKETING-AGENCY-b4f9f0194a9982a7a76f0165e4735866",
+      "public_url": "https://cybercrimeworkspace.notion.site/MKASINO-MARKETING-AGENCY-b4f9f0194a9982a7a76f0165e4735866",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "b029f019-4a99-8220-8b82-01fbc78dbf43",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "81b9f019-4a99-8344-aaf3-816fdfe1e978"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://t.me/mkcooperation_bot"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "TELEGRAM\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "TELEGRAM\n",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/TELEGRAM-b029f0194a9982208b8201fbc78dbf43",
+      "public_url": "https://cybercrimeworkspace.notion.site/TELEGRAM-b029f0194a9982208b8201fbc78dbf43",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "cc49f019-4a99-8363-ab55-019a780ccb52",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "df19f019-4a99-8309-96ab-814a62b2a304"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3CvHH",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PAG AMIN",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PAG AMIN",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/PAG-AMIN-cc49f0194a998363ab55019a780ccb52",
+      "public_url": "https://cybercrimeworkspace.notion.site/PAG-AMIN-cc49f0194a998363ab55019a780ccb52",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "4089f019-4a99-829a-b598-01035743156c",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "5729f019-4a99-8387-9ca8-813c07981d29"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3CvHH",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "MARIO & LAWRENCE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "MARIO & LAWRENCE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/MARIO-LAWRENCE-4089f0194a99829ab59801035743156c",
+      "public_url": "https://cybercrimeworkspace.notion.site/MARIO-LAWRENCE-4089f0194a99829ab59801035743156c",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "a239f019-4a99-83e1-89f4-8116989f5576",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "fa99f019-4a99-8297-9552-811d04ac9576"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "sRJT",
+          "type": "url",
+          "url": "https://www.facebook.com/share/1Buh8ZHPYj/?mibextid=wwXIfr"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "OUTING & BONDING",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "OUTING & BONDING",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/OUTING-BONDING-a239f0194a9983e189f48116989f5576",
+      "public_url": "https://cybercrimeworkspace.notion.site/OUTING-BONDING-a239f0194a9983e189f48116989f5576",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "a8f9f019-4a99-8278-b73b-816fc05d0487",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "9479f019-4a99-8298-b307-81bee02d2826"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3CvHH",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Simoy Proof Of Transaction",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Simoy Proof Of Transaction",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Simoy-Proof-Of-Transaction-a8f9f0194a998278b73b816fc05d0487",
+      "public_url": "https://cybercrimeworkspace.notion.site/Simoy-Proof-Of-Transaction-a8f9f0194a998278b73b816fc05d0487",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "b179f019-4a99-83c0-b567-81adac2b5d9e",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "9479f019-4a99-8298-b307-81bee02d2826"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3CvHH",
+          "type": "url",
+          "url": "https://www.facebook.com/share/1XzFeyL2sQ/?mibextid=wwXIfr"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BLOGGER",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BLOGGER",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/BLOGGER-b179f0194a9983c0b56781adac2b5d9e",
+      "public_url": "https://cybercrimeworkspace.notion.site/BLOGGER-b179f0194a9983c0b56781adac2b5d9e",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "e4d9f019-4a99-83c8-9208-017cae610552",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "0fe9f019-4a99-83d9-9d43-01ca42a6e118"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "LAWRENCE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "LAWRENCE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/LAWRENCE-e4d9f0194a9983c89208017cae610552",
+      "public_url": "https://cybercrimeworkspace.notion.site/LAWRENCE-e4d9f0194a9983c89208017cae610552",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "6d79f019-4a99-830a-a6aa-817c7d3e3e1b",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "fe49f019-4a99-82b8-a603-01ff9044e0c1"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "RESEARCH",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "RESEARCH",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/RESEARCH-6d79f0194a99830aa6aa817c7d3e3e1b",
+      "public_url": "https://cybercrimeworkspace.notion.site/RESEARCH-6d79f0194a99830aa6aa817c7d3e3e1b",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "3319f019-4a99-82e1-af41-81ca5dfe5138",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "e089f019-4a99-82a7-b442-018bcc8dd60e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "COOPERATED",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "COOPERATED",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/COOPERATED-3319f0194a9982e1af4181ca5dfe5138",
+      "public_url": "https://cybercrimeworkspace.notion.site/COOPERATED-3319f0194a9982e1af4181ca5dfe5138",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "b1f9f019-4a99-8235-bbba-812e95997162",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "5849f019-4a99-82df-b63a-817c31bb92db"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "MARIO",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "MARIO",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/MARIO-b1f9f0194a998235bbba812e95997162",
+      "public_url": "https://cybercrimeworkspace.notion.site/MARIO-b1f9f0194a998235bbba812e95997162",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "5bc9f019-4a99-8380-b987-81efc06896ce",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6af9f019-4a99-8374-89bc-81b520a54024"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PINSAN",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PINSAN",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/PINSAN-5bc9f0194a998380b98781efc06896ce",
+      "public_url": "https://cybercrimeworkspace.notion.site/PINSAN-5bc9f0194a998380b98781efc06896ce",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "7629f019-4a99-83d6-907f-0120b7eead92",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6af9f019-4a99-8374-89bc-81b520a54024"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "KAMATAY NI TITO",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "KAMATAY NI TITO",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/KAMATAY-NI-TITO-7629f0194a9983d6907f0120b7eead92",
+      "public_url": "https://cybercrimeworkspace.notion.site/KAMATAY-NI-TITO-7629f0194a9983d6907f0120b7eead92",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "7539f019-4a99-8292-9d41-01457e432983",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "1819f019-4a99-83a2-984b-013cf59e5fa1"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "RECOMMENDATION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "RECOMMENDATION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/RECOMMENDATION-7539f0194a9982929d4101457e432983",
+      "public_url": "https://cybercrimeworkspace.notion.site/RECOMMENDATION-7539f0194a9982929d4101457e432983",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "1ef9f019-4a99-82b7-9149-0104006ad19b",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "1819f019-4a99-83a2-984b-013cf59e5fa1"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PROMOTION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PROMOTION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/PROMOTION-1ef9f0194a9982b791490104006ad19b",
+      "public_url": "https://cybercrimeworkspace.notion.site/PROMOTION-1ef9f0194a9982b791490104006ad19b",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "ccb9f019-4a99-838f-af28-8121aad69bfe",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "5a49f019-4a99-83b5-81f1-012bbed8c28a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PROMOTION",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PROMOTION",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/PROMOTION-ccb9f0194a99838faf288121aad69bfe",
+      "public_url": "https://cybercrimeworkspace.notion.site/PROMOTION-ccb9f0194a99838faf288121aad69bfe",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "3039f019-4a99-825d-9b5d-815fc53986b3",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "f0b9f019-4a99-8240-aae3-017854c835c9"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PC BUILDING",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PC BUILDING",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/PC-BUILDING-3039f0194a99825d9b5d815fc53986b3",
+      "public_url": "https://cybercrimeworkspace.notion.site/PC-BUILDING-3039f0194a99825d9b5d815fc53986b3",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "5f29f019-4a99-828e-a279-017cd3b12dfc",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "f0b9f019-4a99-8240-aae3-017854c835c9"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IT TECHNICIAN",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IT TECHNICIAN",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IT-TECHNICIAN-5f29f0194a99828ea279017cd3b12dfc",
+      "public_url": "https://cybercrimeworkspace.notion.site/IT-TECHNICIAN-5f29f0194a99828ea279017cd3b12dfc",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "8f89f019-4a99-8324-9d42-8140cd457960",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "1989f019-4a99-8251-a2be-01bc3752bcc6"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "YOUTUBE EARNINGS",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "YOUTUBE EARNINGS",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/YOUTUBE-EARNINGS-8f89f0194a9983249d428140cd457960",
+      "public_url": "https://cybercrimeworkspace.notion.site/YOUTUBE-EARNINGS-8f89f0194a9983249d428140cd457960",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "1599f019-4a99-8294-b334-018b586a569e",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "1989f019-4a99-8251-a2be-01bc3752bcc6"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "FACEBOOK EARNINGS",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "FACEBOOK EARNINGS",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/FACEBOOK-EARNINGS-1599f0194a998294b334018b586a569e",
+      "public_url": "https://cybercrimeworkspace.notion.site/FACEBOOK-EARNINGS-1599f0194a998294b334018b586a569e",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "0b89f019-4a99-838a-9aee-01f4c5f569e6",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a309f019-4a99-832c-9c05-01eec7702f5d"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IT TECHNICIAN",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IT TECHNICIAN",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IT-TECHNICIAN-0b89f0194a99838a9aee01f4c5f569e6",
+      "public_url": "https://cybercrimeworkspace.notion.site/IT-TECHNICIAN-0b89f0194a99838a9aee01f4c5f569e6",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "ee49f019-4a99-8286-aa36-01ae1860aa8c",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a309f019-4a99-832c-9c05-01eec7702f5d"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "COMPUTER BARTER",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "COMPUTER BARTER",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/COMPUTER-BARTER-ee49f0194a998286aa3601ae1860aa8c",
+      "public_url": "https://cybercrimeworkspace.notion.site/COMPUTER-BARTER-ee49f0194a998286aa3601ae1860aa8c",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "a519f019-4a99-831b-a4d2-8183c2ee2406",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": "https://www.tiktok.com/@hoopstret?_t=ZS-8yQAUSktXco&_r=1"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "TIKTOK HOOPSTREET",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "TIKTOK HOOPSTREET",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/TIKTOK-HOOPSTREET-a519f0194a99831ba4d28183c2ee2406",
+      "public_url": "https://cybercrimeworkspace.notion.site/TIKTOK-HOOPSTREET-a519f0194a99831ba4d28183c2ee2406",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "13c9f019-4a99-83f7-b40b-8124ea177494",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": "https://www.facebook.com/share/1Aqq7fNNX4/?mibextid=wwXIfr"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "FACEBOOK MK ONLINE STORE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "FACEBOOK MK ONLINE STORE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/FACEBOOK-MK-ONLINE-STORE-13c9f0194a9983f7b40b8124ea177494",
+      "public_url": "https://cybercrimeworkspace.notion.site/FACEBOOK-MK-ONLINE-STORE-13c9f0194a9983f7b40b8124ea177494",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "5c99f019-4a99-82a1-8805-817cfecaf554",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "VIDEOS",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "VIDEOS",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/VIDEOS-5c99f0194a9982a18805817cfecaf554",
+      "public_url": "https://cybercrimeworkspace.notion.site/VIDEOS-5c99f0194a9982a18805817cfecaf554",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "9019f019-4a99-820f-b3eb-817240cf1a5a",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": "https://www.tiktok.com/@mkseller143?_t=ZS-8yQABKzbogs&_r=1"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "TIKTOK ONLINE STORE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "TIKTOK ONLINE STORE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/TIKTOK-ONLINE-STORE-9019f0194a99820fb3eb817240cf1a5a",
+      "public_url": "https://cybercrimeworkspace.notion.site/TIKTOK-ONLINE-STORE-9019f0194a99820fb3eb817240cf1a5a",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "2029f019-4a99-83cc-b142-8132be252c96",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "INVESTMENT",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "INVESTMENT",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/INVESTMENT-2029f0194a9983ccb1428132be252c96",
+      "public_url": "https://cybercrimeworkspace.notion.site/INVESTMENT-2029f0194a9983ccb1428132be252c96",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "d319f019-4a99-8253-b236-01b4c0e9d558",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": "Check out my shop on Shopee! MK Online Store : https://ph.shp.ee/LkWjixg"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "SHOPEE MK ONLINE STORE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "SHOPEE MK ONLINE STORE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/SHOPEE-MK-ONLINE-STORE-d319f0194a998253b23601b4c0e9d558",
+      "public_url": "https://cybercrimeworkspace.notion.site/SHOPEE-MK-ONLINE-STORE-d319f0194a998253b23601b4c0e9d558",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "4019f019-4a99-83bf-a210-0152a3bbaaa3",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": "https://www.facebook.com/share/1C98nwRj57/?mibextid=wwXIfr"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "FACEBOOK HOOPSTREET",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "FACEBOOK HOOPSTREET",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/FACEBOOK-HOOPSTREET-4019f0194a9983bfa2100152a3bbaaa3",
+      "public_url": "https://cybercrimeworkspace.notion.site/FACEBOOK-HOOPSTREET-4019f0194a9983bfa2100152a3bbaaa3",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "7ca9f019-4a99-8362-9113-01f08b4267ae",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "a089f019-4a99-83b3-bd0a-010ed500f4fe"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Website URL": {
+          "id": "E%7DJS",
+          "type": "url",
+          "url": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PICTURES",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PICTURES",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/PICTURES-7ca9f0194a998362911301f08b4267ae",
+      "public_url": "https://cybercrimeworkspace.notion.site/PICTURES-7ca9f0194a998362911301f08b4267ae",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "03c9f019-4a99-839c-8e9a-81090322dfb5",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "4599f019-4a99-83b2-8437-0167e6304991"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://www.tiktok.com/@masterkanortv?_t=ZS-8yQ5kSrAgao&_r=1"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "TIKTOK CHANNEL",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "TIKTOK CHANNEL",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/TIKTOK-CHANNEL-03c9f0194a99839c8e9a81090322dfb5",
+      "public_url": "https://cybercrimeworkspace.notion.site/TIKTOK-CHANNEL-03c9f0194a99839c8e9a81090322dfb5",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "5509f019-4a99-825c-9f3a-01cdef9da681",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "4599f019-4a99-83b2-8437-0167e6304991"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://www.facebook.com/share/1BEJ6yEvrF/?mibextid=wwXIfr"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "FACEBOOK PAGE",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "FACEBOOK PAGE",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/FACEBOOK-PAGE-5509f0194a99825c9f3a01cdef9da681",
+      "public_url": "https://cybercrimeworkspace.notion.site/FACEBOOK-PAGE-5509f0194a99825c9f3a01cdef9da681",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "fbc9f019-4a99-8332-99c5-011da13d81b8",
+      "created_time": "2026-06-25T18:57:00.000Z",
+      "last_edited_time": "2026-06-25T18:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "4599f019-4a99-83b2-8437-0167e6304991"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "URL": {
+          "id": "%3Ezl%3B",
+          "type": "url",
+          "url": "https://youtube.com/@masterkanor?feature=shared"
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "YOUTUBE CHANNEL",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "YOUTUBE CHANNEL",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/YOUTUBE-CHANNEL-fbc9f0194a99833299c5011da13d81b8",
+      "public_url": "https://cybercrimeworkspace.notion.site/YOUTUBE-CHANNEL-fbc9f0194a99833299c5011da13d81b8",
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "7ae6d8e0-93a8-491d-af6b-f0477ea68c7e",
+      "created_time": "2026-06-25T17:25:00.000Z",
+      "last_edited_time": "2026-06-25T17:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📄"
+      },
+      "parent": {
+        "type": "database_id",
+        "database_id": "97d9c19f-d1d2-4919-9851-ed7223897dc4"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Documents": {
+          "id": "Mw%3EF",
+          "type": "files",
+          "files": []
+        },
+        "Signature Date": {
+          "id": "V~Bz",
+          "type": "date",
+          "date": null
+        },
+        "Case": {
+          "id": "YR%7B%7C",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Draft Status": {
+          "id": "YvGm",
+          "type": "select",
+          "select": {
+            "id": "zwmY",
+            "name": "Draft",
+            "color": "yellow"
+          }
+        },
+        "Chain of Custody": {
+          "id": "%5D%5B%5CS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Website URLs": {
+          "id": "fPiH",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Affidavit Body": {
+          "id": "gF%3DM",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Network Evidence": {
+          "id": "j%7C%3AI",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Images": {
+          "id": "kaoK",
+          "type": "files",
+          "files": []
+        },
+        "Videos": {
+          "id": "pwEL",
+          "type": "files",
+          "files": []
+        },
+        "Affidavit": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Testimony + Evidence Gallery (Copy this)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Testimony + Evidence Gallery (Copy this)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Testimony-Evidence-Gallery-Copy-this-7ae6d8e093a8491daf6bf0477ea68c7e",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "331443e0-fdfc-420c-a3a2-9057d4a7d1bc",
+      "created_time": "2026-06-25T17:25:00.000Z",
+      "last_edited_time": "2026-06-25T17:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📄"
+      },
+      "parent": {
+        "type": "database_id",
+        "database_id": "97d9c19f-d1d2-4919-9851-ed7223897dc4"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Documents": {
+          "id": "Mw%3EF",
+          "type": "files",
+          "files": []
+        },
+        "Signature Date": {
+          "id": "V~Bz",
+          "type": "date",
+          "date": null
+        },
+        "Case": {
+          "id": "YR%7B%7C",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Draft Status": {
+          "id": "YvGm",
+          "type": "select",
+          "select": {
+            "id": "zwmY",
+            "name": "Draft",
+            "color": "yellow"
+          }
+        },
+        "Chain of Custody": {
+          "id": "%5D%5B%5CS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Website URLs": {
+          "id": "fPiH",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Affidavit Body": {
+          "id": "gF%3DM",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Network Evidence": {
+          "id": "j%7C%3AI",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Images": {
+          "id": "kaoK",
+          "type": "files",
+          "files": []
+        },
+        "Videos": {
+          "id": "pwEL",
+          "type": "files",
+          "files": []
+        },
+        "Affidavit": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Testimony + Evidence Gallery (Template v2)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Testimony + Evidence Gallery (Template v2)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Testimony-Evidence-Gallery-Template-v2-331443e0fdfc420ca3a29057d4a7d1bc",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "de26306c-548d-4ff7-a7a3-89e070076652",
+      "created_time": "2026-06-25T17:25:00.000Z",
+      "last_edited_time": "2026-06-25T17:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📄"
+      },
+      "parent": {
+        "type": "database_id",
+        "database_id": "97d9c19f-d1d2-4919-9851-ed7223897dc4"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "Documents": {
+          "id": "Mw%3EF",
+          "type": "files",
+          "files": []
+        },
+        "Signature Date": {
+          "id": "V~Bz",
+          "type": "date",
+          "date": null
+        },
+        "Case": {
+          "id": "YR%7B%7C",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Draft Status": {
+          "id": "YvGm",
+          "type": "select",
+          "select": {
+            "id": "zwmY",
+            "name": "Draft",
+            "color": "yellow"
+          }
+        },
+        "Chain of Custody": {
+          "id": "%5D%5B%5CS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Website URLs": {
+          "id": "fPiH",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Affidavit Body": {
+          "id": "gF%3DM",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Network Evidence": {
+          "id": "j%7C%3AI",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Images": {
+          "id": "kaoK",
+          "type": "files",
+          "files": []
+        },
+        "Videos": {
+          "id": "pwEL",
+          "type": "files",
+          "files": []
+        },
+        "Affidavit": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Testimony + Evidence Gallery (Template)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Testimony + Evidence Gallery (Template)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Testimony-Evidence-Gallery-Template-de26306c548d4ff7a7a389e070076652",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "19cba5b4-9257-4342-8b45-df10b9851c2f",
+      "created_time": "2026-06-18T04:14:00.000Z",
+      "last_edited_time": "2026-06-18T04:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🗄️"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Database & Storages",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Database & Storages",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Database-Storages-19cba5b4925743428b45df10b9851c2f",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "2c6b591b-71fd-4ebc-aa7e-075214ccb5c5",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-18T04:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🔐"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "372dfafd-46a2-450d-a067-dfd70e0f6ef9"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Security Policies",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Security Policies",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Security-Policies-2c6b591b71fd4ebcaa7e075214ccb5c5",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "3839f019-4a99-8049-bac9-eee4d2fb7b57",
+      "created_time": "2026-06-18T02:40:00.000Z",
+      "last_edited_time": "2026-06-18T04:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Current State — Cybercrime Workspace (Zapier)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Current State — Cybercrime Workspace (Zapier)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Current-State-Cybercrime-Workspace-Zapier-3839f0194a998049bac9eee4d2fb7b57",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "b4798ef7-973d-4c26-87ab-e1329d0d65e0",
+      "created_time": "2026-06-18T04:14:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📦"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Evidence Collections",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Evidence Collections",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Evidence-Collections-b4798ef7973d4c2687abe1329d0d65e0",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "38c32e85-79c1-44f3-91d6-a9da737616b6",
+      "created_time": "2026-06-17T17:11:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📱"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Assets & Social Media",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Assets & Social Media",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Assets-Social-Media-38c32e8579c144f391d6a9da737616b6",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "8d1a484e-72b1-4b60-9514-d179ac0a5918",
+      "created_time": "2026-06-17T17:11:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📧"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Gmail Management",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Gmail Management",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Gmail-Management-8d1a484e72b14b609514d179ac0a5918",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "d8a648dc-8cfe-452f-b45b-8b8521f3b996",
+      "created_time": "2026-06-18T02:27:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🧭"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Gateway Keeper — Implementation Runbook",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Gateway Keeper — Implementation Runbook",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Gateway-Keeper-Implementation-Runbook-d8a648dc8cfe452fb45b8b8521f3b996",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "bc64b8ef-a591-47b0-9f9c-1b193b4134eb",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "⌨️"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Command Library",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Command Library",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Command-Library-bc64b8efa59147b09f9c1b193b4134eb",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "56433169-b379-4512-816b-354bdb8ccf0b",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🧠"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Workflow Library",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Workflow Library",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Workflow-Library-56433169b3794512816b354bdb8ccf0b",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "aa59df8d-6644-4a24-bb81-67a0c0410944",
+      "created_time": "2026-06-17T09:54:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "💾"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "bebf0b04-268d-4994-acfa-c2af1eb46e6e"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Disaster Recovery & Backup",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Disaster Recovery & Backup",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Disaster-Recovery-Backup-aa59df8d66444a24bb8167a0c0410944",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "05cc3525-f617-4f68-b910-4165ea178231",
+      "created_time": "2026-06-17T17:11:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🖥️"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "372dfafd-46a2-450d-a067-dfd70e0f6ef9"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "IT Systems Administration",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "IT Systems Administration",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IT-Systems-Administration-05cc3525f6174f68b9104165ea178231",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "297d2bf7-fd8c-498d-a493-30ed682d5a29",
+      "created_time": "2026-06-17T17:11:00.000Z",
+      "last_edited_time": "2026-06-18T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "👥"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "372dfafd-46a2-450d-a067-dfd70e0f6ef9"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Users & Access Management",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Users & Access Management",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Users-Access-Management-297d2bf7fd8c498da49330ed682d5a29",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "0c857b1d-a854-460b-8385-83255da19bb3",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-18T03:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🛡️"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "2c6b591b-71fd-4ebc-aa7e-075214ccb5c5"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Security Policy",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Security Policy",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Security-Policy-0c857b1da854460b838583255da19bb3",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "4a038bf0-b792-45d2-9656-501d5771a63c",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-18T03:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "🔑"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "2c6b591b-71fd-4ebc-aa7e-075214ccb5c5"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Password Policy",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Password Policy",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Password-Policy-4a038bf0b79245d29656501d5771a63c",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "79e6df99-ac8d-4bcb-92d5-b8bbc604d4e8",
+      "created_time": "2026-06-17T17:34:00.000Z",
+      "last_edited_time": "2026-06-18T03:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "22fd872b-594c-81dd-b47f-0002fc99fcea"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📎"
+      },
+      "parent": {
+        "type": "page_id",
+        "page_id": "2c6b591b-71fd-4ebc-aa7e-075214ccb5c5"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Chain of Custody Policy",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Chain of Custody Policy",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Chain-of-Custody-Policy-79e6df99ac8d4bcb92d5b8bbc604d4e8",
+      "public_url": null,
+      "archived": false
+    }
+  ],
+  "next_cursor": "8001c207-e051-4fdf-9aa6-e61821854d9b",
+  "has_more": true,
+  "type": "page_or_database",
+  "page_or_database": {},
+  "request_id": "c8b8425d-a239-48b2-9e4e-dc661264914a"
+}

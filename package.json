@@ -1,0 +1,19 @@
+{
+  "name": "hoopstreet-notion-backup",
+  "version": "1.0.0",
+  "description": "Robust, incremental one-way backup engine from Notion to GitHub",
+  "main": "scripts/backup.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/backup.js",
+    "test": "node scripts/crawl.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^5.22.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
